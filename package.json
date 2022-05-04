@@ -1,7 +1,6 @@
 {
   "dependencies": {
     "bcrypt": "^5.0.1",
-    "body-parser": "^1.20.0",
     "bson": "^4.6.2",
     "cookie-parser": "^1.4.6",
     "dotenv": "^16.0.0",
