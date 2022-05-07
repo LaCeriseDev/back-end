@@ -6,3 +6,4 @@ config/.env
 client/
 
 .git
+package-lock.json
