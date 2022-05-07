@@ -1,4 +1,8 @@
-.git
-node_modules/
+# dependencies
+/node_modules
+
+# misc
 config/.env
 client/
+
+.git
