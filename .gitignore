@@ -1,5 +1,5 @@
 .git
 package-lock.json
-/node_modules
-/config/.env
-/client
+node_modules/
+config/.env
+client/
